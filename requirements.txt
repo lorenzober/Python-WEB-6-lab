@@ -1,0 +1,7 @@
+flask
+flask_sqlalchemy
+flask_migrate       # для Alembic
+flask_jwt_extended  # если JWT
+flask_cors
+pydantic             # или marshmallow
+python-dotenv
